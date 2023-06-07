@@ -1,0 +1,12 @@
+future features:
+be able to add new locations at some point
+QR code to join pickup game --> link to socials
+user preferences: i want to be notified if there are any games on tuesday
+setting within event menu to notify potential participants
+
+
+MENUS:
+main page: possibly a map w/ tabs on the side?
+
+create new event: 
+

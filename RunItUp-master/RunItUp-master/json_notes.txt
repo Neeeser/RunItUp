@@ -1,0 +1,18 @@
+Player:
+    -ID : int
+    -First name : string
+    -Last name : string
+
+Location:
+    -ID : int
+    -Name : string
+    -Lat : string
+    -Long : string
+
+Event:
+    -ID : int
+    -Location : string
+    -Date : string
+    -Time : string (mm/dd/yyyy)
+    -Individual/Team : int (0 for individual, 1 for team)
+

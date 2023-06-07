@@ -1,0 +1,101 @@
+{
+  "locations": {
+    "0": {
+      "id": 0,
+      "name": "Prairie Quad",
+      "address": "600 washington st sw, blacksburg, va 24060",
+      "geolocation": ["37.225820", "-80.420000"],
+      "fields": { "basketball": 2, "volleyball": 2, "soccer": 0, "tennis": 0 },
+      "timeslots": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "1": {
+      "id": 1,
+      "name": "Washington Street Courts",
+      "address": "435-443 Washington St SW, Blacksburg, VA 24060",
+      "geolocation": ["37.225140", "-80.416520"],
+      "fields": { "basketball": 0, "volleyball": 0, "soccer": 0, "tennis": 8 },
+      "timeslots": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+
+  "players": {
+    "0": { "name": "Moeed chaudhry", "username": "couch" },
+    "1": { "name": "Carlos Urbina", "username": "big_baller" },
+    "2": { "name": "Andrew Neeser", "username": "big_dog" }
+  },
+
+  "events": {
+    "0": {
+      "id": 0,
+      "name": "pickup game",
+      "location": 0,
+      "players": [
+        { "name": "moeed chaudhry", "username": "couch" },
+        { "name": "carlos urbina", "username": "big_baller" },
+        { "name": "andrew neeser", "username": "big_dog" }
+      ],
+      "field": "basketball",
+      "date": "11/14/22",
+      "time": "14"
+    }
+  },
+
+  "userlocations": {
+    "0": {
+      "location": ["37.225820", "-80.420000"],
+      "radius": 30
+
+    }
+  }
+
+}
